@@ -1,4 +1,4 @@
-# 📊 Loan Default Risk Analysis
+📊 Loan Default Risk Analysis
 ---
 
 ## 📌 Project Background
@@ -23,6 +23,7 @@ Overall, the findings suggest the need for **more disciplined, risk-adjusted len
 ---
 
 ## 🔍 Key Insights
+<img width="1920" height="972" alt="Screenshot (1940)" src="https://github.com/user-attachments/assets/51eca84c-c084-4567-a882-38d5b5e06065" />
 
 ### 1. Employment Stability is a Key Risk Driver
 - Default rate is highest among **unemployed borrowers (3.39%)**
@@ -40,6 +41,9 @@ Overall, the findings suggest the need for **more disciplined, risk-adjusted len
 ---
 
 ### 3. Risk-Based Lending is Inefficient (Critical Insight)
+
+<img width="1920" height="980" alt="Screenshot (1941)" src="https://github.com/user-attachments/assets/5dde55da-d4de-4a34-b420-84cf466c56db" />
+
 - Borrowers with **low credit scores receive the highest median loan (~128.4K)**
 - High credit score borrowers receive slightly lower loan amounts
 
@@ -134,6 +138,8 @@ The report is structured into three key pages:
 - Credit behavior analysis  
 
 ### 3. Financial Risk Metrics
+<img width="1920" height="983" alt="Screenshot (1942)" src="https://github.com/user-attachments/assets/0309788f-361a-4f0f-9e81-c12374a83916" />
+
 - Default rate growth trends  
 - YTD loan distribution by credit score & marital status  
 - Risk segmentation insights
